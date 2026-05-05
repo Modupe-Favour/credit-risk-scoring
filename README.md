@@ -4,7 +4,7 @@ A production-ready machine learning pipeline that predicts loan
 default risk and explains model decisions using SHAP values.
 
 ## 🔗 Live Demo
-[Click here to view the live dashboard](https://your-link.streamlit.app)
+[Click here to view the live dashboard](https://accessibilityquiz-hukqgornpgtwaqnxzv6mew.streamlit.app/)
 
 ## 📌 Project Overview
 Credit risk assessment is one of the most critical functions in
